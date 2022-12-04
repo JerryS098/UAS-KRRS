@@ -1,0 +1,58 @@
+body {
+    background-color: #FFFEAE;
+}
+
+h3{
+    text-align: center;
+    padding: 20px 0;
+    color: #00B5C4;
+    margin-bottom: 20px;
+}
+section{
+    padding:50px 0;
+}
+section h3{
+    text-align: center;
+    padding: 20px 0;
+    color: #00B5C4;
+    margin-bottom: 20px;
+}
+.tentang p{
+    color:black;
+    word-spacing: 2px;
+    line-height: 25px;
+    text-align: center;
+}
+.card .card-body{
+    text-align: center;
+}
+.card{
+    display:inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.img{
+    width:30%;
+    position:absolute;
+    top:30%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.konten .p{
+    text-align: center;
+}
+#copyright{
+    text-align: center;
+    padding: 10px;
+    background-color:#8b0808;
+}
+#copyright1{
+    text-align: center;
+    padding: 10px;
+    border-left: 1px solid rgba(255,255,255,.8);
+    
+}
+.u1{
+    margin-left:  50%; 
+}
